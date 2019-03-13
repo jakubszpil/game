@@ -55,25 +55,21 @@ main {
     
     height: 60px;
     display: block;
-    
+    width: 240px;
     text-align: center;
     color: #fff;
     font-size: 19px;
+    position: relative;
     line-height: 60px;
     background: #6c5ce7;
     font-weight: bold;
-    left: 0;
 }
 .banner{
-    top: 0px;
     width: 100%;
-    position: absolute;
 }
 .replay{
     cursor: pointer; 
     border: 0;
-    position: relative;
-    width: 240px;
 }
 .replay:active {
     background: #4cd137;
