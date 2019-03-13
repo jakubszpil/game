@@ -19,7 +19,6 @@ main {
     position: relative;
 }
 .container{
-    padding: 60px 0;
     height: 100%;
     max-height: 750px;
     display: flex;
@@ -66,12 +65,12 @@ main {
     left: 0;
 }
 .banner{
-    top: 0;
+    top: 60px;
 }
 .replay{
     cursor: pointer; 
     border: 0;
-    bottom: 0;
+    bottom: 60px;
 }
 .replay:active {
     background: #4cd137;
