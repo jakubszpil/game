@@ -21,7 +21,7 @@ main {
 .container{
     padding: 60px 0;
     height: 100%;
-    max-height: 700px;
+    max-height: 750px;
     display: flex;
     width: 100%;
     max-width: 500px;
