@@ -38,7 +38,7 @@ main {
     grid-template-rows: repeat(3,106px);
     grid-gap: 1px;
     background: #dcdde1;
-    margin: 3em 0;
+    margin: 2em 0;
 }
 .box{
     transition: all .25s ease-in-out;
@@ -55,7 +55,7 @@ main {
     
     height: 60px;
     display: block;
-    position: absolute;
+    
     text-align: center;
     color: #fff;
     font-size: 19px;
@@ -67,11 +67,11 @@ main {
 .banner{
     top: 0px;
     width: 100%;
+    position: absolute;
 }
 .replay{
     cursor: pointer; 
     border: 0;
-    bottom: 60px;
     width: 320px;
 }
 .replay:active {
