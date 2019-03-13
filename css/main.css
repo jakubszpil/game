@@ -64,9 +64,6 @@ main {
     background: #6c5ce7;
     font-weight: bold;
 }
-.banner{
-    width: 100%;
-}
 .replay{
     cursor: pointer; 
     border: 0;
